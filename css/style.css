@@ -592,7 +592,7 @@ margin-bottom: 30px;
 /*    margin-left: 10px;*/
 }
 .about_img .side .order_img img{
-    width: 100%;
+    width: 95%;
 height: 100%;
 transition: all 0.3s ease-in-out;
     
@@ -1550,6 +1550,12 @@ bottom: 10px;
     font-size: 15px;
 
 }
+.info{
+    display: none;
+}
+.order_img{
+    display: none;
+}
     .staff .dataa .staffdata{
         margin-bottom:20px;
         padding-left: 70px;
@@ -1575,7 +1581,7 @@ bottom: 10px;
     
 
  .about_img .side .order_img {
-    width: 377px;
+    width: 361px;
     margin-left: 50%;
 }
     .info .infoo .report h2 {
