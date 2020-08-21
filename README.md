@@ -1,2 +1,0 @@
-"# clothes" 
-"# vanty-fair" 
